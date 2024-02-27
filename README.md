@@ -7,7 +7,9 @@ For example, being able to predict the brand for a given area, the likelihood of
 This could give manufacturers information about where to build more electric vehicle support infrastructure, such as charging stations, and licensing mechanics that specialize in their vehicles.
 
 ## How to Run Code Locally
-- Run Python Code file using Jupyter Notebook server (such as Anaconda) for Python code
+- Clone repo
+- Go into repository on local device
+- Run Python Code file using Jupyter Notebook server (such as Anaconda) or other preferred Python IDE
 
 ## Libraries Used
 - pandas
